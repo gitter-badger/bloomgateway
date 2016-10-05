@@ -1,4 +1,6 @@
 # BloomGateway (Version 0.10.5)
+
+[![Join the chat at https://gitter.im/bloomreach/bloomgateway](https://badges.gitter.im/bloomreach/bloomgateway.svg)](https://gitter.im/bloomreach/bloomgateway?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Join the chat at https://gitter.im/bloomreach/bloomgateway](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bloomreach/bloomgateway?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Ronak Kothari (ronak.kothari@gmail.com)
 
